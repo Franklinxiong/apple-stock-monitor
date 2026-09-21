@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python gui.py
 ```
 
-GUI 提供深色科技感 Dashboard：
+GUI Dashboard：
 
 - 顶部「STOCK MONITOR」标题 + 中国区/香港区切换 + 运行状态灯
 - 当前监控型号卡片，点「更换」弹出搜索框（支持中文名/英文名/Part Number 模糊搜索，点击候选即选中）
